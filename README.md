@@ -35,7 +35,7 @@ Make sure there is no folder called node_modules and no file called package-lock
 Make sure that you have '''ruby''' installed (if not goto https://www.ruby-lang.org/en/documentation/installation/ ).
 You can then install gem 'sass'
 
-    $ gem install sass
+    $ sudo gem install sass
 
 Run development web-server:
 
