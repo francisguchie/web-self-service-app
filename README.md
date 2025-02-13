@@ -9,9 +9,11 @@ Clone the project:
 Install dependencies:
 Globally make sure you have the following node v8.9.4 this comes with npm 5.5.1 or above then run commmand below
 For exampla Do this by installing npm using nvm
+
     $ nvm install v8.9.4
    
 Make sure you are running npm v8.9.4 ( you might want to run command below to be sure)
+
     $ nvm use 8.9.4 
     $ nvm alias default 8.9.4
 
