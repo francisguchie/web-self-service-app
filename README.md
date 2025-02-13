@@ -18,6 +18,7 @@ Make sure you are running npm v8.9.4 ( you might want to run command below to be
     $ nvm alias default 8.9.4
 
 Once you are sure then run command below to globally install gulp-cli 
+
     $ npm install -g gulp-cli 
 
 CD into the root of the repo
